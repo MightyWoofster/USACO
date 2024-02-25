@@ -1,0 +1,85 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Contact",
+            "request": "launch",
+            "mainClass": "School.Contact",
+            "projectName": "USACO_455227af"
+        },
+        {
+            "type": "java",
+            "name": "FarmerJohnActuallyFarms",
+            "request": "launch",
+            "mainClass": "FarmerJohnActuallyFarms",
+            "projectName": "USACO_455227af"
+        },
+        {
+            "type": "java",
+            "name": "ConcertTickets",
+            "request": "launch",
+            "mainClass": "ConcertTickets",
+            "projectName": "USACO_455227af"
+        },
+        {
+            "type": "java",
+            "name": "CandyCaneFeast",
+            "request": "launch",
+            "mainClass": "CandyCaneFeast",
+            "projectName": "USACO_455227af"
+        },
+        {
+            "type": "java",
+            "name": "CowntactTracing2",
+            "request": "launch",
+            "mainClass": "CowntactTracing2",
+            "projectName": "USACO_455227af"
+        },
+        {
+            "type": "java",
+            "name": "LittleLamb",
+            "request": "launch",
+            "mainClass": "LittleLamb",
+            "projectName": "USACO_455227af"
+        },
+        {
+            "type": "java",
+            "name": "Song",
+            "request": "launch",
+            "mainClass": "Song",
+            "projectName": "USACO_455227af"
+        },
+        {
+            "type": "java",
+            "name": "Apartment",
+            "request": "launch",
+            "mainClass": "Apartment",
+            "projectName": "USACO_455227af"
+        },
+        {
+            "type": "java",
+            "name": "SchoolPractice",
+            "request": "launch",
+            "mainClass": "SchoolPractice",
+            "projectName": "USACO_455227af"
+        },
+        {
+            "type": "java",
+            "name": "SleepyCowSorting",
+            "request": "launch",
+            "mainClass": "SleepyCowSorting",
+            "projectName": "USACO_455227af"
+        },
+        {
+            "type": "java",
+            "name": "PromotionCounting",
+            "request": "launch",
+            "mainClass": "PromotionCounting",
+            "projectName": "USACO_455227af"
+        }
+    ]
+}

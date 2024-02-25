@@ -16,6 +16,7 @@ public class Apartment {
             apartSize[j] = sc.nextInt();
         }
         Arrays.sort(apartSize);
+        Arrays.sort(appSize);
         int i = 0;
 		int j = 0;
 		int ans = 0;
@@ -32,7 +33,5 @@ public class Apartment {
         }
         System.out.println(ans);
         sc.close();
-        
-
     }
 }
